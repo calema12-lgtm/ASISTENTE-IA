@@ -1,8 +1,9 @@
 streamlit
 pandas
-pymysql
-sqlalchemy
-langchain
 langchain-community
 langchain-groq
+langchain-core
 twilio
+reportlab
+pymysql
+sqlalchemy
