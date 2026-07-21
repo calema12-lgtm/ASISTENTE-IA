@@ -5,3 +5,4 @@ sqlalchemy
 langchain
 langchain-community
 langchain-groq
+twilio
