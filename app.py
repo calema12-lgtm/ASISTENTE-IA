@@ -27,7 +27,7 @@ st.set_page_config(layout="wide")
 # 2. CONFIGURACIÓN DE ENTORNO Y VARIABLES
 # ==========================================
 os.environ["GROQ_API_KEY"] = "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"
-db_uri = "mysql+pymysql://root:0550586937@localhost:3306/taller_automotriz1?charset=utf8mb4"
+db_uri = "mysql+pymysql://avnadmin:AVNS_l-Txvsxy_DKAmAWahVB@mysql-2321bcc6-asistenteia.c.aivencloud.com:18301/taller_automotriz1"
 
 # ==========================================
 # 3. TU FUNCIÓN: INICIALIZAR Y DOCUMENTAR 
